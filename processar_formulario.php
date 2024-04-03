@@ -1,8 +1,8 @@
 <?php
 // Configurações do banco de dados
 $servername = "localhost";
-$username = "user";
-$password = "senha";
+$username = "devops";
+$password = "devops";
 $dbname = "dados";
 
 // Conexão com o banco de dados
