@@ -1,6 +1,6 @@
 <?php
 // Configurações do banco de dados
-$servername = " 10.0.2.15"; //
+$servername = "127.0.0.1"; //
 $username = "devops";
 $password = "devops";
 $dbname = "dados";
