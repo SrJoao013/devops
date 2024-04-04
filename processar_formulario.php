@@ -1,8 +1,8 @@
 <?php
 // Configurações do banco de dados
 $servername = "127.0.0.1"; //
-$username = "devops";
-$password = "devops";
+$username = "user";
+$password = "senha";
 $dbname = "dados";
 try {
     // Conexão com o banco de dados usando PDO
